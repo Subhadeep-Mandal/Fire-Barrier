@@ -1,5 +1,3 @@
----
-
 # ⭐ **FIRE BARRIER – PREMIUM BACKEND API**
 
 ### Node.js | Express | MongoDB | JWT | Razorpay Payments
